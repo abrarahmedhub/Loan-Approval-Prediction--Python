@@ -90,8 +90,7 @@ The model analyzes historical loan application data and identifies patterns that
 Below are some important visual insights generated during the project:
 
 ### 📌 Loan Status Distribution
-
-!download (3).png
+<img width="580" height="455" alt="download" src="https://github.com/user-attachments/assets/fb958f22-cbb4-41c6-bce5-c209369c7e62" />
 
 ### 📌 Income vs Loan Approval
 
