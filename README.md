@@ -1,6 +1,6 @@
 # Loan-Approval-Prediction--Python
 This project is a hands-on implementation of data analysis and visualization using Python in Jupyter Notebook. It explores how to clean, process, and analyze data, and then present insights using meaningful graphs.
-Here’s a **detailed, professional README.md** tailored for your **Machine Learning Loan Approval Prediction project** 👇
+Here’s a **detailed, professional README.md** tailored for your **Machine Learning Loan Approval Prediction project** 
 
 ---
 
@@ -181,6 +181,7 @@ This project helped me gain a strong understanding of:
 ## 📬 Contact
 
 Feel free to connect with me for feedback, suggestions, or collaboration.
+email : iamabrarahmed07@gmail.com
 
 ---
 
