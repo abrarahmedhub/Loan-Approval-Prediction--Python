@@ -91,15 +91,15 @@ Below are some important visual insights generated during the project:
 
 ### 📌 Loan Status Distribution
 
-![Loan Status](images/graph1.png)
+!download (3).png
 
 ### 📌 Income vs Loan Approval
 
-![Income vs Loan](images/graph2.png)
+!download (6).png
 
 ### 📌 Credit History Impact
 
-![Credit History](images/graph3.png)
+!download (8).png
 
 > 💡 Graphs were generated using Matplotlib and Seaborn and exported from the notebook.
 
