@@ -91,14 +91,24 @@ Below are some important visual insights generated during the project:
 
 ### 📌 Loan Status Distribution
 <img width="580" height="455" alt="download" src="https://github.com/user-attachments/assets/fb958f22-cbb4-41c6-bce5-c209369c7e62" />
+<img width="580" height="455" alt="download (1)" src="https://github.com/user-attachments/assets/4659fc21-1499-4277-8f42-3f0da69b6871" />
+<img width="580" height="455" alt="download (2)" src="https://github.com/user-attachments/assets/4ab95826-8194-41a4-9549-9d896f7f4d7b" />
+<img width="571" height="455" alt="download (3)" src="https://github.com/user-attachments/assets/aa193585-f231-4476-82de-a91767a8e610" />
+<img width="571" height="455" alt="download (4)" src="https://github.com/user-attachments/assets/04b978dc-52fe-4ebb-b2d9-10eba27a4fc3" />
+<img width="695" height="470" alt="download (5)" src="https://github.com/user-attachments/assets/4633aa37-b30f-4152-b8c5-20375e915afd" />
+<img width="571" height="455" alt="download (6)" src="https://github.com/user-attachments/assets/2d694dd0-56f7-4102-9a92-afbd00a374f3" />
+<img width="571" height="455" alt="download (7)" src="https://github.com/user-attachments/assets/7ee9df85-fdf6-4415-a0b8-62b8fc867311" />
+<img width="571" height="455" alt="download (8)" src="https://github.com/user-attachments/assets/d3759a49-23b3-49fc-b27d-f8e88e7a819c" />
+<img width="571" height="455" alt="download (9)" src="https://github.com/user-attachments/assets/63dc6818-bef7-4d70-833f-de035850ff5d" />
+<img width="981" height="457" alt="download (11)" src="https://github.com/user-attachments/assets/3d4ec771-ac61-4181-a239-17646fb31f10" />
+<img width="858" height="554" alt="download (10)" src="https://github.com/user-attachments/assets/e98925ed-0042-44ad-9ac1-e3c3ef4161f1" />
+<img width="567" height="598" alt="download (12)" src="https://github.com/user-attachments/assets/d5bca9f9-dc59-4637-adac-9754d3d2c479" />
 
-### 📌 Income vs Loan Approval
 
-!download (6).png
 
-### 📌 Credit History Impact
 
-!download (8).png
+
+
 
 > 💡 Graphs were generated using Matplotlib and Seaborn and exported from the notebook.
 
